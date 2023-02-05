@@ -288,3 +288,4 @@ while running:
             pygame.time.wait(3000)
     pygame.display.update()
 pygame.quit()
+크하하
